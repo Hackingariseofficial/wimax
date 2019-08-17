@@ -2,8 +2,8 @@
 figlet wimax
 echo ""
 echo " meade by laughingman "
-echo " hacking vision"
-echo " https://github.com/Hackingvisionofficial "
+echo " hackingarise"
+echo " https://github.com/Hackingariseofficial "
 echo " "
 
 
